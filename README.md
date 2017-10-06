@@ -25,9 +25,9 @@ VS2013外加一个MFC插件[坑逼微软](http://blog.csdn.net/shuaihj/article/d
 HICON hIcon=AfxGetApp()->LoadIcon(IDI_ICONBUTTON); 
 m_IconBtn.SetIcon(hIcon); 
 ```
-*优化校准的使用<br>
+* 优化校准的使用<br>
 1.在资源中导入一个BMP图片背景<br>
 2.在对话框中加入图片control<br>
 3.在属性的Type下拉框中，选择Bitmap<br>
 4.再在Picture控件的属性的Type下拉框中插入的图片资源<br>
-6.运行程序之后会有错误[修复方法]( http://blog.csdn.net/renyhui/article/details/23120469 )
+5.运行程序之后会有错误[修复方法]( http://blog.csdn.net/renyhui/article/details/23120469 )
