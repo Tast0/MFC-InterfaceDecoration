@@ -11,5 +11,5 @@ VS2013外加一个MFC插件[坑逼微软] （http://blog.csdn.net/shuaihj/articl
 
 主要实现功能
 ----------------------
-*按钮的自绘<br>
+ *按钮的自绘<br>
 * Picture Control的使用<br>
